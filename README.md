@@ -1,6 +1,6 @@
  # 💫 About Mr. KHAN👨🏻‍💻
 
-# *M S KHAN* — DevOps Specialist, Data Scientist & Bioinformatics Researcher
+# *Mr. KHAN* — DevOps Specialist, Data Scientist & Bioinformatics Researcher
                         
 
 ## 🌐 Socials:
@@ -45,19 +45,19 @@
 - Developed and maintained bioinformatics pipelines for genomic data analysis
 
 **DevOps & Data Science Lead**  
-*JMI University* — 2022-Present  
+* At University* — 2022-Present  
 - Spearheaded cloud migration strategy, optimizing resource use and reducing costs  
 - Developed automated pipelines for genome sequencing data analysis, improving throughput  
 - Collaborated with biologists to create user-friendly data visualization dashboards
 
 **Bioinformatics Researcher & Data Scientist**  
-*JMI University* — 2024 & 2025-Present  
+* At University* — 2024 & 2025-Present  
 - Analyzed high-throughput sequencing data to identify genetic variants linked to disease  
 - Applied machine learning techniques to predict biological outcomes from complex datasets  
 - Managed HPC resources for large-scale genomics projects
 
 **Python Faculty & Educator**  
-*Various Platforms (Coursera, Chegg)* — 2023-2024  
+*At University & Various Platforms (CourseHero, Chegg)* — 2023-2024  
 - Taught Python programming to students and professionals, focusing on data science and bioinformatics applications  
 - Developed course content and tutorials enhancing learners’ understanding of Python for scientific computing
 
@@ -72,7 +72,7 @@
 ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-# *-M S KHAN*
+# *-Mr. KHAN*
 ### Contact
 
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:SZEBK1997@GMAIL.COM)
