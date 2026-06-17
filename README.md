@@ -1,4 +1,4 @@
- # 💫 About KHAN👨🏻‍💻
+ # 💫 About Mr. KHAN👨🏻‍💻
 
 # *M S KHAN* — DevOps Specialist, Data Scientist & Bioinformatics Researcher
                         
